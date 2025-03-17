@@ -5,12 +5,12 @@
 
   <!-- Frameworks & Tecnologías Backend -->
   <h3>Frameworks & Backend</h3>
+    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" width="40" height="30">
   <img src="https://img.shields.io/badge/.NET%20Core-512BD4?logo=.NET&logoColor=white" width="120" height="30">
   <img src="https://img.shields.io/badge/.NET%20Framework-5C2D91?logo=.NET&logoColor=white" width="160" height="30">
   <img src="https://img.shields.io/badge/MVC-68217A" width="68" height="30">
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4" width="180" height="30">
   <img src="https://img.shields.io/badge/LINQ-512BD4?logo=.NET&logoColor=white" width="90" height="30">
-  <img src="https://img.shields.io/badge/REST%20APIs-0082C9?logo=api&logoColor=white" width="90" height="30">
 
   <br>
 
@@ -32,11 +32,23 @@
 
   <br>
 
+  <!-- API & Seguridad -->
+  <h3>API & Seguridad</h3>
+  <img src="https://img.shields.io/badge/REST%20APIs-0082C9?logo=api&logoColor=white" width="90" height="30">
+  <img src="https://img.shields.io/badge/JWT-FF8C00?logo=jsonwebtokens&logoColor=white" width="90" height="30">
+
+  <br>
   <!-- Herramientas & Arquitectura -->
   <h3>Herramientas & Arquitectura</h3>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" width="135" height="30">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="75" height="30">
   <img src="https://img.shields.io/badge/CQRS-0865A6?logo=architecture&logoColor=white" width="80" height="30">
-  
+    
+  <!-- Utilidades y Librerías -->
+  <h3>Utilidades y Librerías</h3>
+  <img src="https://img.shields.io/badge/AutoMapper-6E57E0?logo=automapper&logoColor=white" width="120" height="30">
+  <img src="https://img.shields.io/badge/FluentValidation-0FAF8D?logo=validation&logoColor=white" width="150" height="30">
+
   <br>
   
   <!-- En Aprendizaje -->
