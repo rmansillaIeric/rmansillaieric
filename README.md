@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" width="135" height="30">
   <img src="https://img.shields.io/badge/Microservicios-15AABF?logo=microservices&logoColor=white" width="160" height="30">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" width="135" height="30">
-
+ <br><br>
 <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 </div>
