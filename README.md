@@ -44,7 +44,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" width="100" height="30">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="75" height="30">
   <img src="https://img.shields.io/badge/CQRS-0865A6?logo=architecture&logoColor=white" width="80" height="30">
-  
+  <img src="https://img.shields.io/badge/MediatR-6E4AFF?logo=mediator&logoColor=white" width="110" height="30">
+  <img src="https://img.shields.io/badge/DDD-000000?logo=data&logoColor=white" width="80" height="30">
+
 
     
   <!-- Utilidades y Librerías -->
