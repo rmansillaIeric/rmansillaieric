@@ -41,8 +41,11 @@
   <!-- Herramientas & Arquitectura -->
   <h3>Herramientas & Arquitectura</h3>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" width="135" height="30">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" width="100" height="30">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="75" height="30">
   <img src="https://img.shields.io/badge/CQRS-0865A6?logo=architecture&logoColor=white" width="80" height="30">
+  
+
     
   <!-- Utilidades y Librerías -->
   <h3>Utilidades y Librerías</h3>
